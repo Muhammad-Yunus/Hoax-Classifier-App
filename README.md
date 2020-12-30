@@ -1,4 +1,4 @@
-# Web App Klasifikasi Hoax
+# Web App Deteksi Tweet Hoax
 
 | Web Server Gateway Intefrace (WSGI) | Werkzeug                  |
 |-------------------------------------|---------------------------|
