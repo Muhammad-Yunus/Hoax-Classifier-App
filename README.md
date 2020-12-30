@@ -1,4 +1,4 @@
-# Web App Classifikasi Hoax
+# Web App Klasifikasi Hoax
 
 | Web Server Gateway Intefrace (WSGI) | Werkzeug                  |
 |-------------------------------------|---------------------------|
